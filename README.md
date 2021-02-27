@@ -1,4 +1,4 @@
-# Fraola BootStrap Design Blocks Converted to Html Components (Html Fragments/ Json Data)
+# Froala BootStrap Design Blocks Converted to Html Components (Html Fragments/ Json Data)
  
  Froala Bootstrap Design Blocks licensed using FROALA OPEN WEB DESIGN LICENSE Version 1.0 - 16 October 2017 by FROALA published at https://froala.com/design-blocks/ is used to prepare these Html Components
 
