@@ -3,5 +3,5 @@
     "FooterText2" : "Privacy",    
     "FooterText3" : "Terms",    
     "FooterText4" : "About",    
-    "FooterImage1" : "Assets/imgs/logo.png"
+    "FooterImage1" : "/Assets/imgs/logo.png"
 }

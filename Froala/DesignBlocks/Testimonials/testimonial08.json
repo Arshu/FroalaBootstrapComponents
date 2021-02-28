@@ -9,7 +9,7 @@
     "TestimonialText8" : "\"A small river named Duden flows by their place and supplies it with the necessary regelialia.\"",    
     "TestimonialText9" : "Person Name",    
     "TestimonialText10" : "Co-founder at Company",    
-    "TestimonialImage1" : "Assets/imgs/customers/intel.svg",    
-    "TestimonialImage2" : "Assets/imgs/customers/apple.svg",    
-    "TestimonialImage3" : "Assets/imgs/customers/samsung.svg"
+    "TestimonialImage1" : "/Assets/imgs/customers/intel.svg",    
+    "TestimonialImage2" : "/Assets/imgs/customers/apple.svg",    
+    "TestimonialImage3" : "/Assets/imgs/customers/samsung.svg"
 }

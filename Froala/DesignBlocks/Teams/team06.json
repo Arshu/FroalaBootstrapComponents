@@ -9,7 +9,7 @@
     "TeamText8" : "John Smith",    
     "TeamText9" : "Position",    
     "TeamText10" : "A small river named Duden flows by their place and supplies it.",    
-    "TeamImage1" : "Assets/imgs/people/9.jpg",    
-    "TeamImage2" : "Assets/imgs/people/1.jpg",    
-    "TeamImage3" : "Assets/imgs/people/3.jpg"
+    "TeamImage1" : "/Assets/imgs/people/9.jpg",    
+    "TeamImage2" : "/Assets/imgs/people/1.jpg",    
+    "TeamImage3" : "/Assets/imgs/people/3.jpg"
 }

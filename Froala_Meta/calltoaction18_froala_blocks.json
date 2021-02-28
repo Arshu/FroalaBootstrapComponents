@@ -1,0 +1,249 @@
+{
+    "ComponentPath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html",    
+    "StylesheetName" : "froala_blocks.min.css",    
+    "RelativePath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\froala_blocks.min.css",    
+    "HtmlTagList" : [
+        "section","div","p","img","h1","a","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "fdb-block","container","align-items-end","justify-content-center","d-flex","row","align-items-top","text-left","col-12","col-md-6","col-lg-5","mb-5","mt-5","lead","mt-4","btn","btn-primary","col-sm-4","col-lg-4","m-auto","pt-5","img-fluid","rounded-0"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "div"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".container",".align-items-end",".justify-content-center",".d-flex",".row",".align-items-top",".text-left",".col-12",".col-md-6",".col-lg-5",".mb-5",".mt-5",".mt-4",".col-sm-4",".col-lg-4",".m-auto",".pt-5",".img-fluid",".rounded-0"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "article,aside,figcaption,figure,footer,header,hgroup,legend,main,nav,section",            
+            "Value" : [
+                "article,aside,figcaption,figure,footer,header,hgroup,legend,main,nav,section{display:block}"
+            ]
+        },
+        {
+            "Key" : "dl,ol,p,pre,ul",            
+            "Value" : [
+                "dl,ol,p,pre,ul{margin-top:0;margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : "address,dl,ol,p,pre,ul",            
+            "Value" : [
+                "address,dl,ol,p,pre,ul{margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn-link,.small,p,small",            
+            "Value" : [
+                ".btn,.btn-link,.small,p,small{font-weight:400}"
+            ]
+        },
+        {
+            "Key" : "p",            
+            "Value" : [
+                "p{color:#8892a0}"
+            ]
+        },
+        {
+            "Key" : "img,svg",            
+            "Value" : [
+                "img,svg{vertical-align:middle}"
+            ]
+        },
+        {
+            "Key" : "img",            
+            "Value" : [
+                "img{border-style:none}"
+            ]
+        },
+        {
+            "Key" : "dd,h1,h2,h3,h4,h5,h6,label",            
+            "Value" : [
+                "dd,h1,h2,h3,h4,h5,h6,label{margin-bottom:.5rem}"
+            ]
+        },
+        {
+            "Key" : ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-family:inherit;font-weight:600;line-height:1.5;color:inherit}",".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-top:.3rem}"
+            ]
+        },
+        {
+            "Key" : ".h1,h1",            
+            "Value" : [
+                ".h1,h1{font-size:2.75rem}"
+            ]
+        },
+        {
+            "Key" : "a",            
+            "Value" : [
+                "a{color:#329ef7;text-decoration:none;background-color:transparent;-webkit-text-decoration-skip:objects}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:transparent}"
+            ]
+        },
+        {
+            "Key" : "body,caption",            
+            "Value" : [
+                "body,caption{text-align:left}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body{margin:0;font-family:Lato,Helvetica,Arial;font-size:1em;font-weight:400;line-height:1.5;color:#444;background-color:#fff}"
+            ]
+        },
+        {
+            "Key" : "*,::after,::before",            
+            "Value" : [
+                "*,::after,::before{box-sizing:border-box}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".fdb-block,.fdb-block .container",            
+            "Value" : [
+                ".fdb-block,.fdb-block .container{background-position:center;background-repeat:no-repeat}"
+            ]
+        },
+        {
+            "Key" : ".fdb-block,.rounded",            
+            "Value" : [
+                ".fdb-block,.rounded{overflow:hidden}"
+            ]
+        },
+        {
+            "Key" : ".fdb-block",            
+            "Value" : [
+                ".fdb-block{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility;padding:7.5rem 0;position:relative;background-size:cover;background-color:#FFF}"
+            ]
+        },
+        {
+            "Key" : ".lead",            
+            "Value" : [
+                ".lead{font-size:1.4rem;font-weight:400}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn-link,.small,p,small",            
+            "Value" : [
+                ".btn,.btn-link,.small,p,small{font-weight:400}"
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                ".btn{display:inline-block;text-align:center;white-space:nowrap;vertical-align:middle;user-select:none;border:.125rem solid transparent;padding:.375rem 1.625rem;font-size:1em;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out}"
+            ]
+        },
+        {
+            "Key" : ".btn-primary",            
+            "Value" : [
+                ".btn-primary{color:#fff;background-color:#329ef7;border-color:#329ef7}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media screen and (prefers-reduced-motion: reduce) {.btn}",            
+            "Value" : [
+                ".btn{transition:none}"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : 
+    {
+        "article,aside,figcaption,figure,footer,header,hgroup,legend,main,nav,section" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "dl,ol,p,pre,ul" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "address,dl,ol,p,pre,ul" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".btn,.btn-link,.small,p,small" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "p" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "img,svg" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "img" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "dd,h1,h2,h3,h4,h5,h6,label" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".h1,h1" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "a" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "html" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "body,caption" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "body" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        "*,::after,::before" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ]
+    },    
+    "CssClassMeta" : 
+    {
+        ".fdb-block,.fdb-block .container" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".fdb-block,.rounded" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".fdb-block" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".lead" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".btn,.btn-link,.small,p,small" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".btn" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ],        
+        ".btn-primary" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html","Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ]
+    },    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : 
+    {
+        "@media screen and (prefers-reduced-motion: reduce) {.btn}" : [
+            "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html"
+        ]
+    }
+}

@@ -14,11 +14,11 @@
     "TeamText13" : "Founder",    
     "TeamText14" : "Sara Doe",    
     "TeamText15" : "Founder",    
-    "TeamImage1" : "Assets/imgs/people/1.jpg",    
-    "TeamImage2" : "Assets/imgs/people/6.jpg",    
-    "TeamImage3" : "Assets/imgs/people/7.jpg",    
-    "TeamImage4" : "Assets/imgs/people/8.jpg",    
-    "TeamImage5" : "Assets/imgs/people/2.jpg",    
-    "TeamImage6" : "Assets/imgs/people/3.jpg",    
-    "TeamImage7" : "Assets/imgs/people/5.jpg"
+    "TeamImage1" : "/Assets/imgs/people/1.jpg",    
+    "TeamImage2" : "/Assets/imgs/people/6.jpg",    
+    "TeamImage3" : "/Assets/imgs/people/7.jpg",    
+    "TeamImage4" : "/Assets/imgs/people/8.jpg",    
+    "TeamImage5" : "/Assets/imgs/people/2.jpg",    
+    "TeamImage6" : "/Assets/imgs/people/3.jpg",    
+    "TeamImage7" : "/Assets/imgs/people/5.jpg"
 }

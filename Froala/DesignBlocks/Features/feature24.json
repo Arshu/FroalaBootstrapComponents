@@ -5,9 +5,9 @@
     "FeatureText4" : "Three",    
     "FeatureText5" : "Four",    
     "FeatureText6" : "Five",    
-    "FeatureImage1" : "Assets/imgs/icons/gift.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/map.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/life-buoy.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/layout.svg",    
-    "FeatureImage5" : "Assets/imgs/icons/map-pin.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/gift.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/map.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/life-buoy.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/layout.svg",    
+    "FeatureImage5" : "/Assets/imgs/icons/map-pin.svg"
 }

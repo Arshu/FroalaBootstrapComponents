@@ -7,8 +7,8 @@
     "FeatureText6" : "Separated they live in Bookmarksgrove right at the coast",    
     "FeatureText7" : "Feature Three",    
     "FeatureText8" : "A small river named Duden flows by their place and supplies it",    
-    "FeatureImage1" : "Assets/imgs/draws/android.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/github.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/life-buoy.svg"
+    "FeatureImage1" : "/Assets/imgs/draws/android.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/github.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/life-buoy.svg"
 }

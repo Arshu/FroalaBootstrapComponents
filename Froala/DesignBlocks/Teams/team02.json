@@ -6,7 +6,7 @@
     "TeamText5" : "Founder",    
     "TeamText6" : "Sara Doe",    
     "TeamText7" : "Founder",    
-    "TeamImage1" : "Assets/imgs/people/4.jpg",    
-    "TeamImage2" : "Assets/imgs/people/5.jpg",    
-    "TeamImage3" : "Assets/imgs/people/7.jpg"
+    "TeamImage1" : "/Assets/imgs/people/4.jpg",    
+    "TeamImage2" : "/Assets/imgs/people/5.jpg",    
+    "TeamImage3" : "/Assets/imgs/people/7.jpg"
 }

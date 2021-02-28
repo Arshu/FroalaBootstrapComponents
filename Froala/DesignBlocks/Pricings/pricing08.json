@@ -18,7 +18,7 @@
     "PricingText17" : "40MB of storage",    
     "PricingText18" : "Subdomain",    
     "PricingText19" : "Choose Plan",    
-    "PricingImage1" : "Assets/imgs/icons/cloud.svg",    
-    "PricingImage2" : "Assets/imgs/icons/life-buoy.svg",    
-    "PricingImage3" : "Assets/imgs/icons/layers.svg"
+    "PricingImage1" : "/Assets/imgs/icons/cloud.svg",    
+    "PricingImage2" : "/Assets/imgs/icons/life-buoy.svg",    
+    "PricingImage3" : "/Assets/imgs/icons/layers.svg"
 }

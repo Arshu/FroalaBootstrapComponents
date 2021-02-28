@@ -3,7 +3,7 @@
     "FeatureText2" : "Feature one longer Text",    
     "FeatureText3" : "Feature two shorter",    
     "FeatureText4" : "Coming this fall",    
-    "FeatureImage1" : "Assets/imgs/icons/github.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/gift.svg",    
-    "FeatureImage3" : "Assets/imgs/draws/social-media.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/github.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/gift.svg",    
+    "FeatureImage3" : "/Assets/imgs/draws/social-media.svg"
 }

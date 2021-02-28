@@ -2,7 +2,7 @@
     "StylesheetName" : "froala_blocks.min.css",    
     "RelativePath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\froala_blocks.min.css",    
     "ParseTimeInSec" : 0.01,    
-    "ParseStyleTimeInSec" : 0.01,    
+    "ParseStyleTimeInSec" : 0,    
     "ParseMediaTimeInSec" : 0,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [

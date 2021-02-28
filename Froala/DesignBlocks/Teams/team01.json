@@ -9,8 +9,8 @@
     "TeamText8" : "Founder",    
     "TeamText9" : "Sara Doe",    
     "TeamText10" : "Founder",    
-    "TeamImage1" : "Assets/imgs/people/1.jpg",    
-    "TeamImage2" : "Assets/imgs/people/2.jpg",    
-    "TeamImage3" : "Assets/imgs/people/3.jpg",    
-    "TeamImage4" : "Assets/imgs/people/6.jpg"
+    "TeamImage1" : "/Assets/imgs/people/1.jpg",    
+    "TeamImage2" : "/Assets/imgs/people/2.jpg",    
+    "TeamImage3" : "/Assets/imgs/people/3.jpg",    
+    "TeamImage4" : "/Assets/imgs/people/6.jpg"
 }

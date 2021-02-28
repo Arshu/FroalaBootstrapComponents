@@ -3,5 +3,5 @@
     "ContentText2" : "Subtitle text about launch comes here.",    
     "ContentText3" : "Learn More",    
     "ContentText4" : "Buy",    
-    "ContentImage1" : "Assets/imgs/draws/hosting.svg"
+    "ContentImage1" : "/Assets/imgs/draws/hosting.svg"
 }

@@ -3,6 +3,6 @@
     "FeatureText2" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",    
     "FeatureText3" : "Feature 2",    
     "FeatureText4" : "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",    
-    "FeatureImage1" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/github.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/github.svg"
 }

@@ -4,7 +4,7 @@
     "FeatureText3" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.",    
     "FeatureText4" : "Feature Two",    
     "FeatureText5" : "Separated they live in Bookmarksgrove, right at the coast of the Semantics, a large language ocean.",    
-    "FeatureImage1" : "Assets/imgs/draws/development.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/github.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/layers.svg"
+    "FeatureImage1" : "/Assets/imgs/draws/development.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/github.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/layers.svg"
 }

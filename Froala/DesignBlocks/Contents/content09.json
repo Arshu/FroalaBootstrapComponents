@@ -1,5 +1,5 @@
 {
     "ContentText1" : "Froala Design Blocks",    
-    "ContentImage1" : "Assets/imgs/draws/developer.svg",    
-    "ContentImage2" : "Assets/imgs/draws/git.svg"
+    "ContentImage1" : "/Assets/imgs/draws/developer.svg",    
+    "ContentImage2" : "/Assets/imgs/draws/git.svg"
 }

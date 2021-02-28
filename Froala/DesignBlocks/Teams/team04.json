@@ -12,8 +12,8 @@
     "TeamText11" : "John Smith",    
     "TeamText12" : "Position",    
     "TeamText13" : "Wild Question Marks, but the Little Blind Text didn’t listen.",    
-    "TeamImage1" : "Assets/imgs/people/5.jpg",    
-    "TeamImage2" : "Assets/imgs/people/6.jpg",    
-    "TeamImage3" : "Assets/imgs/people/3.jpg",    
-    "TeamImage4" : "Assets/imgs/people/2.jpg"
+    "TeamImage1" : "/Assets/imgs/people/5.jpg",    
+    "TeamImage2" : "/Assets/imgs/people/6.jpg",    
+    "TeamImage3" : "/Assets/imgs/people/3.jpg",    
+    "TeamImage4" : "/Assets/imgs/people/2.jpg"
 }

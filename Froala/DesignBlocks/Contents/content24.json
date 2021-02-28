@@ -4,13 +4,13 @@
     "ContentImage1" : [
         
         {
-            "ContentImage" : "Assets/imgs/customers/samsung.svg"
+            "ContentImage" : "/Assets/imgs/customers/samsung.svg"
         },
         {
-            "ContentImage" : "Assets/imgs/customers/adobe.svg"
+            "ContentImage" : "/Assets/imgs/customers/adobe.svg"
         },
         {
-            "ContentImage" : "Assets/imgs/customers/amazon.svg"
+            "ContentImage" : "/Assets/imgs/customers/amazon.svg"
         }
     ],    
     "ContentImage2" : [
@@ -37,5 +37,5 @@
             "ContentImage" : "{{ContentImage}}"
         }
     ],    
-    "ContentImage4" : "Assets/imgs/draws/customer-survey.svg"
+    "ContentImage4" : "/Assets/imgs/draws/customer-survey.svg"
 }

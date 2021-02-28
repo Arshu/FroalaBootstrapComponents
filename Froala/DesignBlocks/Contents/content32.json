@@ -3,6 +3,6 @@
     "ContentText2" : "Right at the coast of the Semantics, a large language ocean.",    
     "ContentText3" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",    
     "ContentText4" : "Right at the coast of the Semantics, a large language ocean. A small river named Duden.",    
-    "ContentImage1" : "Assets/imgs/draws/tenis.svg",    
-    "ContentImage2" : "Assets/imgs/draws/basketball.svg"
+    "ContentImage1" : "/Assets/imgs/draws/tenis.svg",    
+    "ContentImage2" : "/Assets/imgs/draws/basketball.svg"
 }

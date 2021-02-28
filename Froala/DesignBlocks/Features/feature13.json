@@ -14,13 +14,13 @@
     "FeatureImage1" : [
         
         {
-            "FeatureImage" : "Assets/imgs/icons/gift.svg"
+            "FeatureImage" : "/Assets/imgs/icons/gift.svg"
         },
         {
-            "FeatureImage" : "Assets/imgs/icons/layers.svg"
+            "FeatureImage" : "/Assets/imgs/icons/layers.svg"
         },
         {
-            "FeatureImage" : "Assets/imgs/icons/map.svg"
+            "FeatureImage" : "/Assets/imgs/icons/map.svg"
         }
     ],    
     "FeatureImage2" : [
@@ -50,13 +50,13 @@
     "FeatureImage4" : [
         
         {
-            "FeatureImage" : "Assets/imgs/icons/map-pin.svg"
+            "FeatureImage" : "/Assets/imgs/icons/map-pin.svg"
         },
         {
-            "FeatureImage" : "Assets/imgs/icons/package.svg"
+            "FeatureImage" : "/Assets/imgs/icons/package.svg"
         },
         {
-            "FeatureImage" : "Assets/imgs/icons/monitor.svg"
+            "FeatureImage" : "/Assets/imgs/icons/monitor.svg"
         }
     ],    
     "FeatureImage5" : [
@@ -83,5 +83,5 @@
             "FeatureImage" : "{{FeatureImage}}"
         }
     ],    
-    "FeatureImage7" : "Assets/imgs/draws/simple-iphone.svg"
+    "FeatureImage7" : "/Assets/imgs/draws/simple-iphone.svg"
 }

@@ -7,8 +7,8 @@
     "FeatureText6" : "Learn",    
     "FeatureText7" : "The copy warned the Little Blind Text",    
     "FeatureText8" : "Learn",    
-    "FeatureImage1" : "Assets/imgs/icons/monitor.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/layout.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/map-pin.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/github.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/monitor.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/layout.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/map-pin.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/github.svg"
 }

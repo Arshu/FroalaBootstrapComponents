@@ -6,8 +6,8 @@
     "FeatureText5" : "Feature Two",    
     "FeatureText6" : "Feature Three",    
     "FeatureText7" : "Feature Four",    
-    "FeatureImage1" : "Assets/imgs/icons/github.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/monitor.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/cloud.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/github.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/monitor.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/cloud.svg"
 }

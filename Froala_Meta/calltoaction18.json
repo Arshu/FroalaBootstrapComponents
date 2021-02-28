@@ -1,0 +1,384 @@
+{
+    "ComponentPath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html",    
+    "StylesheetName" : "all.min.css,bootstrap.min.css,froala_blocks.css,froala_blocks.min.css,googlefont.css",    
+    "RelativePath" : null,    
+    "HtmlTagList" : [
+        "section","div","p","img","h1","a","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "fdb-block","container","align-items-end","justify-content-center","d-flex","row","align-items-top","text-left","col-12","col-md-6","col-lg-5","mb-5","mt-5","lead","mt-4","btn","btn-primary","col-sm-4","col-lg-4","m-auto","pt-5","img-fluid","rounded-0"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "section","div","h1","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".align-items-top",".mb-5",".mt-5",".mt-4",".pt-5"
+    ],    
+    "CssTagStyleList" : [
+        
+        {
+            "Key" : "article,aside,figcaption,figure,footer,header,hgroup,main,nav,section",            
+            "Value" : [
+                "article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}"
+            ]
+        },
+        {
+            "Key" : "p",            
+            "Value" : [
+                "p{margin-top:0;margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : "img",            
+            "Value" : [
+                "img{vertical-align:middle;border-style:none}"
+            ]
+        },
+        {
+            "Key" : "h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                "h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}"
+            ]
+        },
+        {
+            "Key" : ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",            
+            "Value" : [
+                ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-family:inherit;font-weight:500;line-height:1.2;color:inherit}"
+            ]
+        },
+        {
+            "Key" : ".h1,h1",            
+            "Value" : [
+                ".h1,h1{font-size:2.5rem}"
+            ]
+        },
+        {
+            "Key" : "a",            
+            "Value" : [
+                "a{color:#007bff;text-decoration:none;background-color:transparent;-webkit-text-decoration-skip:objects}"
+            ]
+        },
+        {
+            "Key" : "html",            
+            "Value" : [
+                "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:transparent}"
+            ]
+        },
+        {
+            "Key" : "body",            
+            "Value" : [
+                "body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}"
+            ]
+        },
+        {
+            "Key" : "*,::after,::before",            
+            "Value" : [
+                "*,::after,::before{box-sizing:border-box}"
+            ]
+        },
+        {
+            "Key" : "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",            
+            "Value" : [
+                "h1, h2, h3, h4, h5, h6,\r\n.h1, .h2, .h3, .h4, .h5, .h6 {\r\n  margin-bottom: 0.5rem;\r\n  font-family: inherit;\r\n  font-weight: 600;\r\n  line-height: 1.5;\r\n  color: inherit; }","h1, h2, h3, h4, h5, h6,\r\n.h1, .h2, .h3, .h4, .h5, .h6 {\r\n  margin-top: 0.3rem; }"
+            ]
+        },
+        {
+            "Key" : "h1,.h1",            
+            "Value" : [
+                "h1, .h1 {\r\n  font-size: 2.75rem; }"
+            ]
+        },
+        {
+            "Key" : "*,*::before,*::after",            
+            "Value" : [
+                "*,\r\n*::before,\r\n*::after {\r\n  box-sizing: border-box; }"
+            ]
+        },
+        {
+            "Key" : "article,aside,figcaption,figure,footer,header,hgroup,legend,main,nav,section",            
+            "Value" : [
+                "article,aside,figcaption,figure,footer,header,hgroup,legend,main,nav,section{display:block}"
+            ]
+        },
+        {
+            "Key" : "dl,ol,p,pre,ul",            
+            "Value" : [
+                "dl,ol,p,pre,ul{margin-top:0;margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : "address,dl,ol,p,pre,ul",            
+            "Value" : [
+                "address,dl,ol,p,pre,ul{margin-bottom:1rem}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn-link,.small,p,small",            
+            "Value" : [
+                ".btn,.btn-link,.small,p,small{font-weight:400}"
+            ]
+        },
+        {
+            "Key" : "img,svg",            
+            "Value" : [
+                "img,svg{vertical-align:middle}"
+            ]
+        },
+        {
+            "Key" : "dd,h1,h2,h3,h4,h5,h6,label",            
+            "Value" : [
+                "dd,h1,h2,h3,h4,h5,h6,label{margin-bottom:.5rem}"
+            ]
+        },
+        {
+            "Key" : "body,caption",            
+            "Value" : [
+                "body,caption{text-align:left}"
+            ]
+        }
+    ],    
+    "CssClassStyleList" : [
+        
+        {
+            "Key" : ".container",            
+            "Value" : [
+                ".container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}"
+            ]
+        },
+        {
+            "Key" : ".align-items-end",            
+            "Value" : [
+                ".align-items-end{-ms-flex-align:end!important;align-items:flex-end!important}"
+            ]
+        },
+        {
+            "Key" : ".justify-content-center",            
+            "Value" : [
+                ".justify-content-center{-ms-flex-pack:center!important;justify-content:center!important}"
+            ]
+        },
+        {
+            "Key" : ".d-flex",            
+            "Value" : [
+                ".d-flex{display:-ms-flexbox!important;display:flex!important}"
+            ]
+        },
+        {
+            "Key" : ".row",            
+            "Value" : [
+                ".row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}"
+            ]
+        },
+        {
+            "Key" : ".text-left",            
+            "Value" : [
+                ".text-left{text-align:left!important}"
+            ]
+        },
+        {
+            "Key" : ".col,.col-1,.col-10,.col-11,.col-12,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-auto,.col-lg,.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-auto,.col-md,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-auto,.col-sm,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-auto,.col-xl,.col-xl-1,.col-xl-10,.col-xl-11,.col-xl-12,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-auto",            
+            "Value" : [
+                ".col,.col-1,.col-10,.col-11,.col-12,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-auto,.col-lg,.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-auto,.col-md,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-auto,.col-sm,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-auto,.col-xl,.col-xl-1,.col-xl-10,.col-xl-11,.col-xl-12,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-auto{position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}"
+            ]
+        },
+        {
+            "Key" : ".col-12",            
+            "Value" : [
+                ".col-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}"
+            ]
+        },
+        {
+            "Key" : ".mb-5,.my-5",            
+            "Value" : [
+                ".mb-5,.my-5{margin-bottom:3rem!important}"
+            ]
+        },
+        {
+            "Key" : ".mt-5,.my-5",            
+            "Value" : [
+                ".mt-5,.my-5{margin-top:3rem!important}"
+            ]
+        },
+        {
+            "Key" : ".lead",            
+            "Value" : [
+                ".lead{font-size:1.25rem;font-weight:300}"
+            ]
+        },
+        {
+            "Key" : ".mt-4,.my-4",            
+            "Value" : [
+                ".mt-4,.my-4{margin-top:1.5rem!important}"
+            ]
+        },
+        {
+            "Key" : ".btn",            
+            "Value" : [
+                ".btn{display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out}"
+            ]
+        },
+        {
+            "Key" : ".btn-primary",            
+            "Value" : [
+                ".btn-primary{color:#fff;background-color:#007bff;border-color:#007bff}"
+            ]
+        },
+        {
+            "Key" : ".m-auto",            
+            "Value" : [
+                ".m-auto{margin:auto!important}"
+            ]
+        },
+        {
+            "Key" : ".pt-5,.py-5",            
+            "Value" : [
+                ".pt-5,.py-5{padding-top:3rem!important}"
+            ]
+        },
+        {
+            "Key" : ".img-fluid",            
+            "Value" : [
+                ".img-fluid{max-width:100%;height:auto}"
+            ]
+        },
+        {
+            "Key" : ".rounded-0",            
+            "Value" : [
+                ".rounded-0{border-radius:0!important}"
+            ]
+        },
+        {
+            "Key" : ".fdb-block",            
+            "Value" : [
+                ".fdb-block {\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n  text-rendering: optimizelegibility;\r\n  padding: 7.5rem 0;\r\n  position: relative;\r\n  background-size: cover;\r\n  background-position: center;\r\n  background-repeat: no-repeat;\r\n  overflow: hidden;\r\n  background-color: #FFFFFF; }"
+            ]
+        },
+        {
+            "Key" : ".fdb-block,.fdb-block .container",            
+            "Value" : [
+                ".fdb-block,.fdb-block .container{background-position:center;background-repeat:no-repeat}"
+            ]
+        },
+        {
+            "Key" : ".fdb-block,.rounded",            
+            "Value" : [
+                ".fdb-block,.rounded{overflow:hidden}"
+            ]
+        },
+        {
+            "Key" : ".btn,.btn-link,.small,p,small",            
+            "Value" : [
+                ".btn,.btn-link,.small,p,small{font-weight:400}"
+            ]
+        }
+    ],    
+    "CssTagMediaList" : [
+        
+        {
+            "Key" : "@media print {h2,h3,p}",            
+            "Value" : [
+                "h2,h3,p{orphans:3;widows:3}"
+            ]
+        },
+        {
+            "Key" : "@media print {img,tr}",            
+            "Value" : [
+                "img,tr{page-break-inside:avoid}"
+            ]
+        },
+        {
+            "Key" : "@media print {a:not(.btn)}",            
+            "Value" : [
+                "a:not(.btn){text-decoration:underline}"
+            ]
+        },
+        {
+            "Key" : "@media print {body}",            
+            "Value" : [
+                "body{min-width:992px!important}"
+            ]
+        },
+        {
+            "Key" : "@media print {*,::after,::before}",            
+            "Value" : [
+                "*,::after,::before{text-shadow:none!important;box-shadow:none!important}"
+            ]
+        }
+    ],    
+    "CssClassMediaList" : [
+        
+        {
+            "Key" : "@media (min-width: 576px) {.container}",            
+            "Value" : [
+                ".container{max-width:540px}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.container}",            
+            "Value" : [
+                ".container{max-width:720px}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.container}",            
+            "Value" : [
+                ".container{max-width:960px}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 1200px) {.container}",            
+            "Value" : [
+                ".container{max-width:1140px}"
+            ]
+        },
+        {
+            "Key" : "@media print {.container}",            
+            "Value" : [
+                ".container{min-width:992px!important}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 768px) {.col-md-6}",            
+            "Value" : [
+                ".col-md-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.col-lg-5}",            
+            "Value" : [
+                ".col-lg-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}"
+            ]
+        },
+        {
+            "Key" : "@media screen and (prefers-reduced-motion: reduce) {.btn}",            
+            "Value" : [
+                ".btn{transition:none}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 576px) {.col-sm-4}",            
+            "Value" : [
+                ".col-sm-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}"
+            ]
+        },
+        {
+            "Key" : "@media (min-width: 992px) {.col-lg-4}",            
+            "Value" : [
+                ".col-lg-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}"
+            ]
+        },
+        {
+            "Key" : "@media screen and (prefers-reduced-motion: reduce) {.btn }",            
+            "Value" : [
+                ".btn {\r\n      transition: none; }"
+            ]
+        }
+    ],    
+    "CssFontFaceList" : [
+        
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

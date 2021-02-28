@@ -4,5 +4,5 @@
     "HeaderText3" : "Features",    
     "HeaderText4" : "Pricing",    
     "HeaderText5" : "Team",    
-    "HeaderImage1" : "Assets/imgs/logo.png"
+    "HeaderImage1" : "/Assets/imgs/logo.png"
 }

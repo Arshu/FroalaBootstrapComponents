@@ -3,6 +3,6 @@
     "TestimonialText2" : "Person Name",    
     "TestimonialText3" : "\"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.\"",    
     "TestimonialText4" : "Person Name",    
-    "TestimonialImage1" : "Assets/imgs/people/5.jpg",    
-    "TestimonialImage2" : "Assets/imgs/people/4.jpg"
+    "TestimonialImage1" : "/Assets/imgs/people/5.jpg",    
+    "TestimonialImage2" : "/Assets/imgs/people/4.jpg"
 }

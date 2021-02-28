@@ -1,6 +1,6 @@
 {
     "ContentText1" : "Froala Design Blocks",    
-    "ContentImage1" : "Assets/imgs/draws/design-life.svg",    
-    "ContentImage2" : "Assets/imgs/draws/designer.svg",    
-    "ContentImage3" : "Assets/imgs/draws/design-community.svg"
+    "ContentImage1" : "/Assets/imgs/draws/design-life.svg",    
+    "ContentImage2" : "/Assets/imgs/draws/designer.svg",    
+    "ContentImage3" : "/Assets/imgs/draws/design-community.svg"
 }

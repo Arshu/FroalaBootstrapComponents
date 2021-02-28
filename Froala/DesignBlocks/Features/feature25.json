@@ -5,8 +5,8 @@
     "FeatureText4" : "Feature Two",    
     "FeatureText5" : "Feature Three",    
     "FeatureText6" : "Feature Four",    
-    "FeatureImage1" : "Assets/imgs/hero/blue.svg",    
-    "FeatureImage2" : "Assets/imgs/hero/red.svg",    
-    "FeatureImage3" : "Assets/imgs/hero/purple.svg",    
-    "FeatureImage4" : "Assets/imgs/hero/yellow.svg"
+    "FeatureImage1" : "/Assets/imgs/hero/blue.svg",    
+    "FeatureImage2" : "/Assets/imgs/hero/red.svg",    
+    "FeatureImage3" : "/Assets/imgs/hero/purple.svg",    
+    "FeatureImage4" : "/Assets/imgs/hero/yellow.svg"
 }

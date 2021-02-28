@@ -5,8 +5,8 @@
     "FeatureText4" : "Duden flows by their place far far away, behind the word mountains.",    
     "FeatureText5" : "Feature Seven",    
     "FeatureText6" : "A small river named Duden flows by their place and supplies it.",    
-    "FeatureImage1" : "Assets/imgs/draws/simple-iphone.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/monitor.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/cloud.svg"
+    "FeatureImage1" : "/Assets/imgs/draws/simple-iphone.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/monitor.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/cloud.svg"
 }

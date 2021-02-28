@@ -8,5 +8,5 @@
     "HeaderText7" : "Contact",    
     "HeaderText8" : "Log In",    
     "HeaderText9" : "Button",    
-    "HeaderImage1" : "Assets/imgs/logo.png"
+    "HeaderImage1" : "/Assets/imgs/logo.png"
 }

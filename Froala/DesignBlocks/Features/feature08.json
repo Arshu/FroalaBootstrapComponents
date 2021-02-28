@@ -3,8 +3,8 @@
     "FeatureText2" : "Feature 1",    
     "FeatureText3" : "Feature 2",    
     "FeatureText4" : "Feature 3",    
-    "FeatureImage1" : "Assets/imgs/draws/email.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/monitor.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/map.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/package.svg"
+    "FeatureImage1" : "/Assets/imgs/draws/email.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/monitor.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/map.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/package.svg"
 }

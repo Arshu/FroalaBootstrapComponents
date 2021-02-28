@@ -5,7 +5,7 @@
     "ContactText4" : "123 6th St.",    
     "ContactText5" : "Melbourne, FL 32904",    
     "ContactText6" : "support@website.com",    
-    "ContactImage1" : "Assets/imgs/icons/phone.svg",    
-    "ContactImage2" : "Assets/imgs/icons/navigation.svg",    
-    "ContactImage3" : "Assets/imgs/icons/mail.svg"
+    "ContactImage1" : "/Assets/imgs/icons/phone.svg",    
+    "ContactImage2" : "/Assets/imgs/icons/navigation.svg",    
+    "ContactImage3" : "/Assets/imgs/icons/mail.svg"
 }

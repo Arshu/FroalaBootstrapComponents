@@ -6,5 +6,5 @@
     "HeaderText5" : "Team",    
     "HeaderText6" : "Contact",    
     "HeaderText7" : "Log In",    
-    "HeaderImage1" : "Assets/imgs/logo.png"
+    "HeaderImage1" : "/Assets/imgs/logo.png"
 }

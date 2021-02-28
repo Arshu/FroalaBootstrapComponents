@@ -2,6 +2,6 @@
     "CallToActionText1" : "Design Blocks",    
     "CallToActionText2" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",    
     "CallToActionText3" : "Call to Action",    
-    "CallToActionImage1" : "Assets/imgs/logo.png",    
-    "CallToActionImage2" : "Assets/imgs/draws/sync.svg"
+    "CallToActionImage1" : "/Assets/imgs/logo.png",    
+    "CallToActionImage2" : "/Assets/imgs/draws/sync.svg"
 }

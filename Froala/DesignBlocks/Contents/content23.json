@@ -3,6 +3,6 @@
     "ContentText2" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",    
     "ContentText3" : "Download",    
     "ContentText4" : "Register",    
-    "ContentImage1" : "Assets/imgs/draws/iphone-hand.svg",    
-    "ContentImage2" : "Assets/imgs/icons/gift.svg"
+    "ContentImage1" : "/Assets/imgs/draws/iphone-hand.svg",    
+    "ContentImage2" : "/Assets/imgs/icons/gift.svg"
 }

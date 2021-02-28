@@ -1,8 +1,8 @@
 {
     "StylesheetName" : "all.min.css",    
     "RelativePath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\all.min.css",    
-    "ParseTimeInSec" : 0.01,    
-    "ParseStyleTimeInSec" : 0.11,    
+    "ParseTimeInSec" : 0.02,    
+    "ParseStyleTimeInSec" : 0.1,    
     "ParseMediaTimeInSec" : 0,    
     "LoadTimeInSec" : 0,    
     "FontRuleList" : [

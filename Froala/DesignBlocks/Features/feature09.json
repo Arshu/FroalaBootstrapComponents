@@ -6,7 +6,7 @@
     "FeatureText5" : "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large ocean.",    
     "FeatureText6" : "Feature 3",    
     "FeatureText7" : "A small river named Duden flows by their place and supplies it with the necessary regelialia",    
-    "FeatureImage1" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/gift.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/cloud.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/gift.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/cloud.svg"
 }

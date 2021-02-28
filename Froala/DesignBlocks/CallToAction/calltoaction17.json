@@ -6,5 +6,5 @@
     "CallToActionText5" : "Take a Tour",    
     "CallToActionText6" : "Start Now",    
     "CallToActionText7" : "Some foo text",    
-    "CallToActionImage1" : "Assets/imgs/draws/code.svg"
+    "CallToActionImage1" : "/Assets/imgs/draws/code.svg"
 }

@@ -2,22 +2,22 @@
     "TestimonialImage1" : [
         
         {
-            "TestimonialImage" : "Assets/imgs/customers/adobe.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/adobe.svg"
         },
         {
-            "TestimonialImage" : "Assets/imgs/customers/amazon.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/amazon.svg"
         },
         {
-            "TestimonialImage" : "Assets/imgs/customers/ebay.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/ebay.svg"
         },
         {
-            "TestimonialImage" : "Assets/imgs/customers/samsung.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/samsung.svg"
         },
         {
-            "TestimonialImage" : "Assets/imgs/customers/orange.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/orange.svg"
         },
         {
-            "TestimonialImage" : "Assets/imgs/customers/salesforce.svg"
+            "TestimonialImage" : "/Assets/imgs/customers/salesforce.svg"
         }
     ],    
     "TestimonialImage2" : [

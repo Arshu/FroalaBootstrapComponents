@@ -1,0 +1,56 @@
+{
+    "ComponentPath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\CallToAction\\calltoaction18.html",    
+    "StylesheetName" : "googlefont.css",    
+    "RelativePath" : "Templates\\FroalaBootstrapComponents\\Froala\\DesignBlocks\\googlefont.css",    
+    "HtmlTagList" : [
+        "section","div","p","img","h1","a","html","body","main","*"
+    ],    
+    "HtmlClassList" : [
+        "fdb-block","container","align-items-end","justify-content-center","d-flex","row","align-items-top","text-left","col-12","col-md-6","col-lg-5","mb-5","mt-5","lead","mt-4","btn","btn-primary","col-sm-4","col-lg-4","m-auto","pt-5","img-fluid","rounded-0"
+    ],    
+    "HtmlTagUnMatchedList" : [
+        "section","div","p","img","h1","a","html","body","main","*"
+    ],    
+    "HtmlClassUnMatchedList" : [
+        ".fdb-block",".container",".align-items-end",".justify-content-center",".d-flex",".row",".align-items-top",".text-left",".col-12",".col-md-6",".col-lg-5",".mb-5",".mt-5",".lead",".mt-4",".btn",".btn-primary",".col-sm-4",".col-lg-4",".m-auto",".pt-5",".img-fluid",".rounded-0"
+    ],    
+    "CssTagStyleList" : [
+        
+    ],    
+    "CssClassStyleList" : [
+        
+    ],    
+    "CssTagMediaList" : [
+        
+    ],    
+    "CssClassMediaList" : [
+        
+    ],    
+    "CssFontFaceList" : [
+        
+        {
+            "Key" : "@font-face { font-family: \"Lato\"; font-style: normal; font-weight: 400; src: url(\"webfonts/latin_ext.woff2\") format(\"woff2\"); unicode-range: 0100-024F, 0259, 1E00-1EFF, 2020, 20A0-20AB, 20AD-20CF, 2113, 2C60-2C7F, A720-A7FF }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/latin_ext.woff2",                    
+                    "Value" : "webfonts\\latin_ext.woff2"
+                }
+            ]
+        },
+        {
+            "Key" : "@font-face { font-family: \"Lato\"; font-style: normal; font-weight: 400; src: url(\"webfonts/latin.woff2\") format(\"woff2\"); unicode-range: 0000-00FF, 0131, 0152-0153, 02BB-02BC, 02C6, 02DA, 02DC, 2000-206F, 2074, 20AC, 2122, 2191, 2193, 2212, 2215, FEFF, FFFD }",            
+            "Value" : [
+                
+                {
+                    "Key" : "webfonts/latin.woff2",                    
+                    "Value" : "webfonts\\latin.woff2"
+                }
+            ]
+        }
+    ],    
+    "CssTagMeta" : null,    
+    "CssClassMeta" : null,    
+    "CssTagMediaMeta" : null,    
+    "CssClassMediaMeta" : null
+}

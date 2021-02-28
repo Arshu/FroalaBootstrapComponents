@@ -6,22 +6,22 @@
     "CallToActionImage1" : [
         
         {
-            "CallToActionImage" : "Assets/imgs/customers/adobe.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/adobe.svg"
         },
         {
-            "CallToActionImage" : "Assets/imgs/customers/amazon.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/amazon.svg"
         },
         {
-            "CallToActionImage" : "Assets/imgs/customers/ebay.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/ebay.svg"
         },
         {
-            "CallToActionImage" : "Assets/imgs/customers/samsung.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/samsung.svg"
         },
         {
-            "CallToActionImage" : "Assets/imgs/customers/orange.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/orange.svg"
         },
         {
-            "CallToActionImage" : "Assets/imgs/customers/salesforce.svg"
+            "CallToActionImage" : "/Assets/imgs/customers/salesforce.svg"
         }
     ],    
     "CallToActionImage2" : [

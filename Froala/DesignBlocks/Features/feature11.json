@@ -12,10 +12,10 @@
     "FeatureText11" : "Separated they live in Bookmarksgrove right at the coast",    
     "FeatureText12" : "Feature Six",    
     "FeatureText13" : "On her way she met a copy. The copy warned the Little Blind Text.",    
-    "FeatureImage1" : "Assets/imgs/icons/gift.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/cloud.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/map-pin.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage5" : "Assets/imgs/icons/life-buoy.svg",    
-    "FeatureImage6" : "Assets/imgs/icons/layout.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/gift.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/cloud.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/map-pin.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage5" : "/Assets/imgs/icons/life-buoy.svg",    
+    "FeatureImage6" : "/Assets/imgs/icons/layout.svg"
 }

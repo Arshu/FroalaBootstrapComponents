@@ -16,12 +16,12 @@
     "FeatureText15" : "Duden flows by their place far far away, behind the word mountains.",    
     "FeatureText16" : "Feature Eight",    
     "FeatureText17" : "Separated they live in Bookmarksgrove right at the coast",    
-    "FeatureImage1" : "Assets/imgs/icons/layers.svg",    
-    "FeatureImage2" : "Assets/imgs/icons/layout.svg",    
-    "FeatureImage3" : "Assets/imgs/icons/life-buoy.svg",    
-    "FeatureImage4" : "Assets/imgs/icons/map-pin.svg",    
-    "FeatureImage5" : "Assets/imgs/icons/monitor.svg",    
-    "FeatureImage6" : "Assets/imgs/icons/package.svg",    
-    "FeatureImage7" : "Assets/imgs/icons/cloud.svg",    
-    "FeatureImage8" : "Assets/imgs/icons/gift.svg"
+    "FeatureImage1" : "/Assets/imgs/icons/layers.svg",    
+    "FeatureImage2" : "/Assets/imgs/icons/layout.svg",    
+    "FeatureImage3" : "/Assets/imgs/icons/life-buoy.svg",    
+    "FeatureImage4" : "/Assets/imgs/icons/map-pin.svg",    
+    "FeatureImage5" : "/Assets/imgs/icons/monitor.svg",    
+    "FeatureImage6" : "/Assets/imgs/icons/package.svg",    
+    "FeatureImage7" : "/Assets/imgs/icons/cloud.svg",    
+    "FeatureImage8" : "/Assets/imgs/icons/gift.svg"
 }

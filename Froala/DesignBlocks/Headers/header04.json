@@ -5,5 +5,5 @@
     "HeaderText4" : "Pricing",    
     "HeaderText5" : "Team",    
     "HeaderText6" : "Button",    
-    "HeaderImage1" : "Assets/imgs/logo.png"
+    "HeaderImage1" : "/Assets/imgs/logo.png"
 }
