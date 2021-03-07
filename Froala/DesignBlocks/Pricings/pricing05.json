@@ -9,16 +9,6 @@
     "PricingText8" : "Choose Plan",    
     "PricingText9" : "Standard",    
     "PricingText10" : "$49",    
-    "PricingText11" : "/month",    
-    "PricingText12" : "Item 1",    
-    "PricingText13" : "Item 2",    
-    "PricingText14" : "Item 3",    
-    "PricingText15" : "Choose Plan",    
-    "PricingText16" : "OEM",    
-    "PricingText17" : "$99",    
-    "PricingText18" : "/month",    
-    "PricingText19" : "Item 1",    
-    "PricingText20" : "Item 2",    
-    "PricingText21" : "Item 3",    
-    "PricingText22" : "Choose Plan"
+    "PricingText11" : "OEM",    
+    "PricingText12" : "$99"
 }

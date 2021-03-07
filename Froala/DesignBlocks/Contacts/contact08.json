@@ -8,15 +8,11 @@
     "ContactText7" : "Contact Support",    
     "ContactText8" : "Our technical support is available by phone or email from 11am to 11pm BST, Monday through Friday.",    
     "ContactText9" : "Sales",    
-    "ContactText10" : "+800 3005 4300",    
-    "ContactText11" : "Contact Sales",    
-    "ContactText12" : "Our technical support is available by phone or email from 11am to 11pm BST, Monday through Friday.",    
-    "ContactText13" : "General inquiries",    
-    "ContactText14" : "hello@website.com",    
-    "ContactText15" : "Drop us a line",    
-    "ContactText16" : "Select Department",    
-    "ContactText17" : "Support",    
-    "ContactText18" : "Sales",    
-    "ContactText19" : "Accounting",    
-    "ContactText20" : "Submit"
+    "ContactText10" : "Contact Sales",    
+    "ContactText11" : "General inquiries",    
+    "ContactText12" : "hello@website.com",    
+    "ContactText13" : "Drop us a line",    
+    "ContactText14" : "Select Department",    
+    "ContactText15" : "Accounting",    
+    "ContactText16" : "Submit"
 }
